@@ -1,0 +1,41 @@
+body{
+    background-color: peachpuff;
+    background-image: url("mathew-schwartz-GjzJFMnJZYg-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.order{
+    background-color: rgb(249, 249, 88);
+    background-image: url("jay-wennington-N_Y88TWmGwA-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1000px;
+    height: 500px;
+    /*text-align: center;*/
+    position: relative;
+    left: 250px;
+}
+button{
+    background-color: white;
+    border: 2px solid purple;
+    border-top-right-radius: 0.5em;
+    border-top-left-radius: 0.5em;
+    padding: 8px 138.2px 8px 138.2px;
+    margin: -1px;
+    position: relative;
+    top: 466px;
+    color: purple;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+
+}
+a{
+    text-decoration: none;
+}
+
+button:hover{
+    background-color: rgb(228, 172, 98);
+    transition: background-color 0.35s;
+    cursor: pointer;
+}
